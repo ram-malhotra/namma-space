@@ -1,6 +1,11 @@
 # Namma Space
 
-**Namma Space** is a prototype for turning real-world spaces into interactive 3D environments that people can explore digitally.
+### 🚀 Live Demo
+[Explore Namma Space](https://namma-space-six.vercel.app/)
+
+**GitHub Repository:** https://github.com/ram-malhotra/namma-space
+
+Namma Space is a prototype for turning real-world spaces into interactive 3D environments that people can explore digitally.
 
 The current prototype focuses on the browser-based 3D viewing and navigation experience. The longer-term goal is to build an automated capture-to-3D workflow that can reconstruct environments from photos, videos, and supported depth or sensor data.
 
@@ -60,7 +65,7 @@ npm install
 npm run dev
 ```
 
-Open the local URL printed by Vite in your browser (usually `http://localhost:5173`).
+Open the local URL printed by Vite (usually `http://localhost:5173`).
 
 If the application is stored in a subfolder in the repository, change into that folder before running `npm install`.
 
@@ -102,16 +107,7 @@ namma-space/
 
 ## Demo
 
-Add screenshots or a short screen recording here once available.
-
-Suggested files:
-
-```text
-docs/
-└── screenshots/
-    ├── viewer-overview.png
-    └── navigation-demo.gif
-```
+Live demo: https://namma-space-six.vercel.app/
 
 ## License
 
